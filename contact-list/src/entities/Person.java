@@ -1,4 +1,4 @@
-package rest;
+package entities;
 
 
 public class Person {
